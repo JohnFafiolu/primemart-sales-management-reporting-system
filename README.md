@@ -10,6 +10,9 @@ The dashboard provides management with visibility into key performance indicator
 
 Interactive slicers allow users to explore business performance across different branches, product categories, and payment methods without modifying the underlying data or dashboard structure.
 
+## Dashboard Preview
+
+![PrimeMart Interactive Sales Dashboard](Dashboard/Primemart_Sales_Dashboard.png)
 ---
 
 ## Business Problem
