@@ -1,0 +1,501 @@
+Transaction_ID,Date,Customer_ID,Product,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Branch,Sales_Representative
+PM-0001,2025-03-13,CUST-0027,Rice 5kg,Groceries,5,8236.32,41181.6,Cash,Surulere,Amina Yusuf
+PM-0002,2025-11-05,CUST-0007,Rice 5kg,Groceries,4,8215.52,32862.08,Card,Surulere,David Okoro
+PM-0003,2025-03-23,CUST-0179,Body Lotion,Personal Care,1,3108.11,3108.11,Mobile Money,Lekki,Grace Bello
+PM-0004,2025-07-14,CUST-0025,Orange Juice,Beverages,6,1128.53,6771.18,Bank Transfer,Lekki,Grace Bello
+PM-0005,2025-07-13,CUST-0021,Sugar 1kg,Groceries,2,2117.78,4235.56,Bank Transfer,Lekki,David Okoro
+PM-0006,2025-02-10,CUST-0060,Rice 5kg,Groceries,4,9134.22,36536.88,Cash,Surulere,Grace Bello
+PM-0007,2025-04-18,CUST-0172,Body Lotion,Personal Care,3,2882.7,8648.1,Bank Transfer,Ikeja,David Okoro
+PM-0008,2025-11-24,CUST-0177,Orange Juice,Beverages,8,1195.07,9560.56,Card,Lekki,Amina Yusuf
+PM-0009,2025-02-03,CUST-0055,Bottled Water,Beverages,6,350.08,2100.48,Bank Transfer,Yaba,Samuel Ade
+PM-0010,2025-05-07,CUST-0144,Shampoo,Personal Care,3,2335.14,7005.42,Bank Transfer,Surulere,Samuel Ade
+PM-0011,2025-02-16,CUST-0013,Dish Soap,Household,3,970.81,2912.43,Cash,Yaba,David Okoro
+PM-0012,2025-08-28,CUST-0136,Bathing Soap Pack,Personal Care,7,1394.85,9763.95,Bank Transfer,Ikeja,Amina Yusuf
+PM-0013,2025-03-22,CUST-0117,Toilet Tissue Pack,Household,2,1761.66,3523.32,Cash,Lekki,David Okoro
+PM-0014,2025-03-24,CUST-0139,Cooking Oil 1L,Groceries,4,3612.16,14448.64,Cash,Lekki,Samuel Ade
+PM-0015,2025-06-07,CUST-0062,Rice 5kg,Groceries,6,9313.83,55882.98,Cash,Yaba,Amina Yusuf
+PM-0016,2025-09-30,CUST-0033,Sugar 1kg,Groceries,2,2119.63,4239.26,Card,Surulere,David Okoro
+PM-0017,2025-12-20,CUST-0052,Floor Cleaner,Household,4,2322.14,9288.56,Bank Transfer,Surulere,Grace Bello
+PM-0018,2025-02-02,,Shampoo,Personal Care,2,2326.99,4653.98,Cash,Yaba,David Okoro
+PM-0019,2025-01-17,CUST-0085,Rice 5kg,Groceries,1,8209.2,8209.2,Cash,Yaba,Grace Bello
+PM-0020,2025-10-20,CUST-0148,Toothpaste,Personal Care,3,1171.14,3513.42,Mobile Money,Yaba,Samuel Ade
+PM-0021,2025-08-09,CUST-0091,Toothpaste,Personal Care,2,1033.32,2066.64,Mobile Money,Surulere,Samuel Ade
+PM-0022,2025-06-23,CUST-0028,Rice 5kg,Groceries,1,8504.46,8504.46,Card,Yaba,David Okoro
+PM-0023,2025-08-25,CUST-0064,Toothpaste,Personal Care,7,1052.37,7366.59,Cash,Surulere,Amina Yusuf
+PM-0024,2025-05-02,CUST-0043,Rice 5kg,Groceries,2,9394.82,18789.64,Mobile Money,Surulere,Samuel Ade
+PM-0025,2025-01-02,CUST-0100,Coffee 200g,Beverages,1,2477.61,2477.61,Bank Transfer,Surulere,Grace Bello
+PM-0026,2025-04-22,CUST-0015,Shampoo,Personal Care,3,2299.15,6897.45,Cash,Lekki,Amina Yusuf
+PM-0027,2025-09-18,CUST-0021,Sugar 1kg,Groceries,3,1769.61,5308.83,Card,Ikeja,Amina Yusuf
+PM-0028,2025-10-19,CUST-0064,Coffee 200g,Beverages,2,2881.63,5763.26,Cash,Ikeja,Samuel Ade
+PM-0029,2025-06-10,CUST-0062,Toilet Tissue Pack,Household,4,1897.1,7588.4,Bank Transfer,Surulere,David Okoro
+PM-0030,2025-02-07,CUST-0003,Floor Cleaner,Household,6,2322.19,13933.14,Mobile Money,Ikeja,Amina Yusuf
+PM-0031,2025-02-05,CUST-0063,Soft Drink,Beverages,3,553.33,1659.99,Bank Transfer,Lekki,David Okoro
+PM-0032,2025-10-11,CUST-0077,Body Lotion,Personal Care,1,3055.36,3055.36,Cash,Yaba,Grace Bello
+PM-0033,2025-11-06,CUST-0054,Rice 5kg,Groceries,3,8282.99,24848.97,Bank Transfer,Yaba,Grace Bello
+PM-0034,2025-08-05,CUST-0071,Body Lotion,Personal Care,1,2721.53,2721.53,Cash,Ikeja,Grace Bello
+PM-0035,2025-10-10,CUST-0110,Soft Drink,Beverages,3,534.12,1602.36,Cash,Ikeja,Amina Yusuf
+PM-0036,2025-03-17,CUST-0111,Bottled Water,Beverages,6,362.78,2176.68,Card,Ikeja,Grace Bello
+PM-0037,2025-05-08,CUST-0171,Laundry Detergent,Household,6,3078.45,18470.7,Cash,Lekki,Samuel Ade
+PM-0038,2025-04-01,CUST-0106,Orange Juice,Beverages,3,1338.29,4014.87,Cash,Yaba,Grace Bello
+PM-0039,2025-12-26,CUST-0028,Toothpaste,Personal Care,5,1047.02,5235.1,Mobile Money,Ikeja,Samuel Ade
+PM-0040,2025-04-27,CUST-0058,Orange Juice,Beverages,8,1187.92,9503.36,Cash,Yaba,Samuel Ade
+PM-0041,2025-05-23,CUST-0090,Toilet Tissue Pack,Household,2,2004.08,4008.16,Mobile Money,Lekki,Amina Yusuf
+PM-0042,2025-05-16,CUST-0010,Cooking Oil 1L,Groceries,3,3937.25,11811.75,Cash,Surulere,Grace Bello
+PM-0043,2025-10-23,CUST-0049,Floor Cleaner,Household,2,2093.78,4187.56,Bank Transfer,Ikeja,Samuel Ade
+PM-0044,2025-12-07,CUST-0085,Beans 2kg,Groceries,6,4226.29,25357.74,Bank Transfer,Ikeja,Grace Bello
+PM-0045,2025-06-01,CUST-0142,Floor Cleaner,Household,6,2101.01,12606.06,Card,Yaba,Samuel Ade
+PM-0046,2025-01-01,CUST-0078,Toothpaste, groceries ,5,1101.34,5506.7,Bank Transfer,Yaba,Samuel Ade
+PM-0047,2025-04-20,CUST-0131,Floor Cleaner,Household,8,2117.71,16941.68,Mobile Money,Yaba,Amina Yusuf
+PM-0048,2025-05-01,CUST-0173,Toilet Tissue Pack,Household,2,1950.63,3901.26,Bank Transfer,Yaba,David Okoro
+PM-0049,2025-09-01,CUST-0157,Bottled Water,Beverages,1,339.14,339.14,Cash,Surulere,Samuel Ade
+PM-0050,2025-03-17,CUST-0168,Coffee 200g,Beverages,8,2599.82,20798.56,Cash,Ikeja,Samuel Ade
+PM-0051,2025-05-08,CUST-0032,Orange Juice,Beverages,8,1116.05,8928.4,Mobile Money,Yaba,Samuel Ade
+PM-0052,2025-10-08,CUST-0115,Floor Cleaner,Household,7,2280.84,15965.88,Card,Surulere,Samuel Ade
+PM-0053,2025-09-24,CUST-0125,Dish Soap,Household,5,1019.5,5097.5,Card,Lekki,Samuel Ade
+PM-0054,2025-06-13,CUST-0139,Cooking Oil 1L,Groceries,4,3702.5,14810.0,Cash,Yaba,David Okoro
+PM-0055,2025-02-02,CUST-0107,Coffee 200g,Beverages,3,2759.34,8278.02,Mobile Money,Lekki,Samuel Ade
+PM-0056,2025-07-19,CUST-0150,Bathing Soap Pack,Personal Care,4,1521.21,6084.84,Cash,Surulere,Samuel Ade
+PM-0057,2025-08-03,CUST-0138,Cooking Oil 1L,Groceries,5,4068.64,20343.2,Card,Surulere,David Okoro
+PM-0058,2025-06-22,CUST-0172,Floor Cleaner,Household,8,1944.19,15553.52,Mobile Money,Yaba,Samuel Ade
+PM-0059,2025-12-06,CUST-0007,Bottled Water,Beverages,7,363.43,2544.01,Cash,Surulere,David Okoro
+PM-0060,2025-06-17,CUST-0055,Toothpaste,Personal Care,1,1069.23,1069.23,Mobile Money,Lekki,Grace Bello
+PM-0061,2025-02-11,CUST-0121,Body Lotion,Personal Care,7,2814.32,19700.24,Cash,Ikeja,Grace Bello
+PM-0062,2025-05-07,CUST-0052,Bottled Water,Beverages,1,374.8,374.8,Cash,Yaba,David Okoro
+PM-0063,2025-04-22,CUST-0120,Coffee 200g,Beverages,2,2685.26,5370.52,Bank Transfer,Lekki,David Okoro
+PM-0064,2025-01-14,CUST-0080,Beans 2kg,Groceries,5,3954.8,19774.0,Mobile Money,Surulere,David Okoro
+PM-0065,2025-06-04,CUST-0176,Beans 2kg,Groceries,2,4449.64,8899.28,Cash,Ikeja,Grace Bello
+PM-0066,2025-06-24,CUST-0004,Body Lotion,Personal Care,2,2961.46,5922.92,Mobile Money,Surulere,Amina Yusuf
+PM-0067,2025-08-11,CUST-0046,Body Lotion,Personal Care,8,3078.24,24625.92,Bank Transfer,Surulere,Samuel Ade
+PM-0068,2025-02-14,CUST-0072,Body Lotion,Personal Care,6,3161.99,18971.94,Mobile Money,Yaba,Samuel Ade
+PM-0069,2025-06-16,CUST-0047,Body Lotion,Personal Care,1,2954.7,2954.7,Mobile Money,Yaba,Grace Bello
+PM-0070,2025-12-26,CUST-0071,Toilet Tissue Pack,Household,5,1972.92,9864.6,Cash,Yaba,Amina Yusuf
+PM-0071,2025-05-04,CUST-0177,Coffee 200g,Beverages,8,2680.69,21445.52,Mobile Money,Surulere,Samuel Ade
+PM-0072,2025-12-21,CUST-0063,Rice 5kg,Groceries,5,8196.71,40983.55,Bank Transfer,Lekki,Samuel Ade
+PM-0073,2025-08-21,CUST-0070,Floor Cleaner,Household,6,2079.76,12478.56,Bank Transfer,Lekki,David Okoro
+PM-0074,2025-10-02,CUST-0177,Beans 2kg,Groceries,6,3964.43,23786.58,Card,Yaba,David Okoro
+PM-0075,2025-04-10,CUST-0076,Body Lotion,Personal Care,5,3236.7,16183.5,Card,Lekki,David Okoro
+PM-0076,2025-01-28,CUST-0142,Laundry Detergent,Household,3,3119.56,9358.68,Bank Transfer,Yaba,Samuel Ade
+PM-0077,2025-08-14,CUST-0088,Rice 5kg,Groceries,5,8617.97,43089.85,bank transfer,Ikeja,Grace Bello
+PM-0078,2025-02-07,CUST-0148,Bathing Soap Pack,Personal Care,2,1400.2,2800.4,Cash,Yaba,David Okoro
+PM-0079,2025-08-02,CUST-0156,Laundry Detergent,Household,4,3019.81,12079.24,Card,Surulere,Samuel Ade
+PM-0080,2025-11-14,CUST-0016,Body Lotion,Personal Care,7,2845.12,19915.84,Cash,Yaba,David Okoro
+PM-0081,2025-10-10,CUST-0020,Laundry Detergent,Household,3,3097.51,9292.53,Card,Ikeja,Samuel Ade
+PM-0082,2025-05-28,CUST-0073,Shampoo,Personal Care,5,2223.67,11118.35,Mobile Money,Ikeja,David Okoro
+PM-0083,2025-04-26,CUST-0166,Dish Soap,Household,7,895.81,6270.67,Card,Lekki,David Okoro
+PM-0084,2025-11-01,CUST-0146,Rice 5kg,Groceries,3,9167.47,27502.41,Bank Transfer,Surulere,Amina Yusuf
+PM-0085,2025-09-14,CUST-0139,Body Lotion,Personal Care,7,3214.75,22503.25,Mobile Money,Surulere,Amina Yusuf
+PM-0086,2025-01-14,CUST-0024,Sugar 1kg,Groceries,6,1977.41,11864.46,Card,Ikeja,Grace Bello
+PM-0087,2025-08-15,CUST-0072,Beans 2kg,Groceries,8,4299.93,34399.44,Card,Surulere,Samuel Ade
+PM-0088,2025-06-14,CUST-0172,Sugar 1kg,Groceries,6,1903.17,11419.02,Cash,Yaba,Grace Bello
+PM-0089,2025-07-25,CUST-0141,Shampoo,Personal Care,5,2526.04,12630.2,Cash,Surulere,Amina Yusuf
+PM-0090,2025-07-26,CUST-0132,Toilet Tissue Pack,Household,6,1697.73,10186.38,Cash,Surulere,Samuel Ade
+PM-0091,2025-09-13,CUST-0161,Beans 2kg,Groceries,6,4387.01,26322.06,Mobile Money,Ikeja,David Okoro
+PM-0092,2025-12-24,CUST-0125,Dish Soap,Household,5,957.24,4786.2,Cash,Ikeja,David Okoro
+PM-0093,2025-02-17,CUST-0058,Soft Drink,Beverages,1,515.23,515.23,Cash,Surulere,Amina Yusuf
+PM-0094,2025-05-20,CUST-0107,Coffee 200g,Beverages,5,2656.61,13283.05,Mobile Money,Surulere,David Okoro
+PM-0095,2025-11-03,CUST-0131,Toothpaste,Personal Care,7,1053.93,7377.51,Card,Ikeja,Grace Bello
+PM-0096,2025-05-25,CUST-0077,Body Lotion,Personal Care,5,3143.92,15719.6,Mobile Money,Yaba,Samuel Ade
+PM-0097,2025-10-06,CUST-0097,Body Lotion,Personal Care,6,2988.11,17928.66,Mobile Money,Lekki,David Okoro
+PM-0098,2025-07-30,CUST-0012,Coffee 200g,Beverages,4,2837.13,11348.52,Bank Transfer,Surulere,Samuel Ade
+PM-0099,2025-03-06,CUST-0129,Toothpaste,Personal Care,8,1224.26,9794.08,Bank Transfer,Ikeja,Samuel Ade
+PM-0100,2025-07-29,CUST-0168,Sugar 1kg,Groceries,1,2022.53,2022.53,Card,Ikeja,Samuel Ade
+PM-0101,2025-06-18,CUST-0173,Toilet Tissue Pack,Household,7,1889.94,13229.58,Mobile Money,Lekki,Samuel Ade
+PM-0102,2025-05-28,CUST-0059,Rice 5kg,Groceries,4,8892.97,35571.88,Cash,Surulere,Amina Yusuf
+PM-0103,2025-01-15,CUST-0012,Sugar 1kg,Groceries,3,2011.72,6035.16,Bank Transfer,Ikeja,Grace Bello
+PM-0104,2025-09-29,,Toilet Tissue Pack,Household,7,1708.41,11958.87,Card,Yaba,David Okoro
+PM-0105,2025-10-26,CUST-0037,Sugar 1kg,Groceries,4,1937.11,7748.44,Card,Surulere,Grace Bello
+PM-0106,2025-08-27,CUST-0074,Body Lotion,Personal Care,1,3189.37,3189.37,Card,Ikeja,Samuel Ade
+PM-0107,2025-08-22,CUST-0078,Toilet Tissue Pack,Household,7,1904.51,13331.57,Card,Surulere,Samuel Ade
+PM-0108,2025-10-22,CUST-0076,Beans 2kg,Groceries,7,4344.42,30410.94,Bank Transfer,Ikeja,Samuel Ade
+PM-0109,2025-09-12,CUST-0074,Laundry Detergent,Household,1,3526.79,3526.79,Card,Lekki,David Okoro
+PM-0110,2025-11-18,CUST-0166,Soft Drink,Beverages,3,522.82,1568.46,Cash,Lekki,Samuel Ade
+PM-0111,2025-06-01,CUST-0084,Cooking Oil 1L,Groceries,3,3564.5,10693.5,Mobile Money,Yaba,David Okoro
+PM-0112,2025-05-12,CUST-0124,Soft Drink,Beverages,5,543.05,2715.25,Bank Transfer,Lekki,Amina Yusuf
+PM-0113,2025-04-26,CUST-0174,Bathing Soap Pack,Personal Care,3,1499.16,4497.48,Mobile Money,Lekki,Amina Yusuf
+PM-0114,2025-08-21,CUST-0095,Bathing Soap Pack,Personal Care,5,1438.24,7191.2,Bank Transfer,Surulere,Grace Bello
+PM-0115,2025-10-15,CUST-0084,Beans 2kg,Groceries,8,3885.02,31080.16,Card,Ikeja,Samuel Ade
+PM-0116,2025-01-20,CUST-0078,Floor Cleaner,Household,2,1990.71,3981.42,Mobile Money,Ikeja,Amina Yusuf
+PM-0117,2025-12-10,CUST-0179,Orange Juice,Beverages,7,1212.87,8490.09,Mobile Money,Yaba,Samuel Ade
+PM-0118,2025-05-24,CUST-0009,Sugar 1kg,Groceries,7,2104.84,14733.88,Bank Transfer,Yaba,Samuel Ade
+PM-0119,2025-12-18,CUST-0095,Toothpaste,Personal Care,6,1033.86,6203.16,Bank Transfer,Ikeja,Samuel Ade
+PM-0120,2025-08-21,CUST-0024,Dish Soap,Household,2,1054.31,2108.62,Card,Ikeja,Amina Yusuf
+PM-0121,2025-04-16,CUST-0018,Dish Soap,Household,3,1023.53,3070.59,Card,Yaba,David Okoro
+PM-0122,2025-03-16,CUST-0034,Dish Soap,Household,1,926.68,926.68,Bank Transfer,Yaba,Amina Yusuf
+PM-0123,2025-05-02,CUST-0151,Beans 2kg,Groceries,1,4164.92,4164.92,Bank Transfer,Ikeja,David Okoro
+PM-0124,2025-09-27,CUST-0030,Laundry Detergent,Household,3,3418.7,10256.1,Cash,Surulere,Samuel Ade
+PM-0125,2025-11-11,CUST-0012,Laundry Detergent,Household,8,3266.46,26131.68,Bank Transfer,Surulere,Amina Yusuf
+PM-0126,2025-02-25,CUST-0126,Sugar 1kg,Groceries,7,1909.98,13369.86,Mobile Money,Ikeja,Amina Yusuf
+PM-0127,2025-11-16,CUST-0163,Dish Soap,Household,2,897.98,1795.96,Bank Transfer,Surulere,Grace Bello
+PM-0128,2025-02-28,CUST-0168,Shampoo,Personal Care,2,2588.69,5177.38,Card,Surulere,Samuel Ade
+PM-0129,2025-07-24,CUST-0107,Coffee 200g,Beverages,6,2822.26,16933.56,Cash,Lekki,Samuel Ade
+PM-0130,2025-12-18,CUST-0122,Toilet Tissue Pack,Household,6,1999.29,11995.74,Cash,Ikeja,Amina Yusuf
+PM-0131,2025-07-10,CUST-0034,Sugar 1kg,Groceries,2,2030.94,4061.88,Cash,Lekki,Amina Yusuf
+PM-0132,2025-01-27,CUST-0074,Body Lotion,Personal Care,7,3171.49,22200.43,Bank Transfer,Lekki,Amina Yusuf
+PM-0133,2025-02-25,CUST-0090,Orange Juice,Beverages,8,1157.82,9262.56,Bank Transfer,Ikeja,Grace Bello
+PM-0134,2025-12-03,CUST-0178,Coffee 200g,Beverages,1,2708.68,2708.68,Bank Transfer,Ikeja,David Okoro
+PM-0135,2025-04-03,CUST-0037,Toilet Tissue Pack,Household,6,1782.37,10694.22,Mobile Money,Ikeja,David Okoro
+PM-0136,2025-08-21,CUST-0088,Rice 5kg,Groceries,4,8459.53,33838.12,Card,Lekki,Grace Bello
+PM-0137,2025-11-13,CUST-0013,Laundry Detergent,Household,1,3043.57,3043.57,Cash,Lekki,Samuel Ade
+PM-0138,2025-04-21,CUST-0132,Shampoo,Personal Care,8,2406.81,19254.48,Cash,Lekki,Samuel Ade
+PM-0139,2025-06-07,CUST-0012,Cooking Oil 1L,Groceries,8,3896.47,31171.76,Card,Surulere,Amina Yusuf
+PM-0140,2025-03-12,CUST-0066,Beans 2kg,Groceries,5,4658.07,23290.35,Bank Transfer,Lekki,Amina Yusuf
+PM-0141,2025-07-14,CUST-0137,Sugar 1kg,Groceries,7,1814.76,12703.32,Card,Lekki,Amina Yusuf
+PM-0142,2025-02-09,CUST-0081,Bathing Soap Pack,Personal Care,7,1293.25,9052.75,Mobile Money,Surulere,Samuel Ade
+PM-0143,2025-06-16,CUST-0044,Laundry Detergent,Household,7,2957.35,20701.45,Mobile Money,Lekki,Amina Yusuf
+PM-0144,2025-07-25,CUST-0135,Bathing Soap Pack,Personal Care,4,1409.99,5639.96,Cash,Surulere,Grace Bello
+PM-0145,2025-02-09,CUST-0131,Dish Soap,Household,6,1022.03,6132.18,Cash,Yaba,Grace Bello
+PM-0146,2025-05-12,CUST-0051,Dish Soap,Household,4,893.53,3574.12,Card,Yaba,Amina Yusuf
+PM-0147,2025-10-24,CUST-0115,Coffee 200g,Beverages,8,2784.31,22274.48,Bank Transfer,Lekki,David Okoro
+PM-0148,2025-06-05,CUST-0071,Bathing Soap Pack,Personal Care,8,1411.82,11294.56,Cash,Lekki,Amina Yusuf
+PM-0149,2025-07-08,CUST-0074,Floor Cleaner,Household,8,1947.8,15582.4,Cash,Ikeja,Samuel Ade
+PM-0150,2025-10-20,CUST-0167,Bathing Soap Pack,Personal Care,8,1542.53,12340.24,Card,Lekki,Samuel Ade
+PM-0151,2025-06-25,CUST-0022,Bottled Water,Beverages,8,329.25,2634.0,Card,Ikeja,David Okoro
+PM-0152,2025-05-25,CUST-0100,Shampoo,Personal Care,3,2382.67,7148.01,Mobile Money,Lekki,Amina Yusuf
+PM-0153,2025-12-14,CUST-0099,Laundry Detergent,Household,6,3004.48,18026.88,Bank Transfer,Lekki,David Okoro
+PM-0154,2025-06-08,CUST-0168,Laundry Detergent,Household,3,3530.72,10592.16,Mobile Money,Yaba,Amina Yusuf
+PM-0155,2025-12-10,CUST-0180,Floor Cleaner,Household,6,2273.54,13641.24,Cash,Surulere,Grace Bello
+PM-0156,2025-04-20,CUST-0088,Cooking Oil 1L,Groceries,5,3633.0,18165.0,Mobile Money,Yaba,David Okoro
+PM-0157,2025-02-21,CUST-0130,Orange Juice,Beverages,2,1174.99,2349.98,Cash,Lekki,David Okoro
+PM-0158,2025-12-21,CUST-0160,Toothpaste,Personal Care,3,1051.79,3155.37,Card,Surulere,Amina Yusuf
+PM-0159,2025-11-09,CUST-0073,Body Lotion,Personal Care,4,3230.36,12921.44,Mobile Money,Yaba,David Okoro
+PM-0160,2025-10-20,CUST-0113,Floor Cleaner,Household,4,2086.49,8345.96,Mobile Money,Lekki,Samuel Ade
+PM-0161,2025-03-12,CUST-0065,Toothpaste,Personal Care,4,1188.28,4753.12,Cash,Surulere,Grace Bello
+PM-0162,2025-03-24,CUST-0070,Rice 5kg,Groceries,5,7962.59,39812.95,Mobile Money,Yaba,Samuel Ade
+PM-0163,2025-01-14,CUST-0107,Beans 2kg,Groceries,8,4607.09,36856.72,Cash,Surulere,Grace Bello
+PM-0164,2025-01-15,CUST-0082,Coffee 200g,Beverages,2,2586.95,5173.9,Cash,Lekki,David Okoro
+PM-0165,2025-08-30,CUST-0179,Bottled Water,Beverages,5,386.22,1931.1,Card,Surulere,Samuel Ade
+PM-0166,2025-03-18,CUST-0141,Rice 5kg,Groceries,1,8255.07,8255.07,Mobile Money,Ikeja,Grace Bello
+PM-0167,2025-08-03,CUST-0164,Soft Drink,Beverages,2,464.77,929.54,Mobile Money,Ikeja,Amina Yusuf
+PM-0168,2025-05-30,CUST-0110,Bathing Soap Pack,Personal Care,4,1489.19,5956.76,Cash,Lekki,David Okoro
+PM-0169,2025-07-04,CUST-0018,Toothpaste,Personal Care,2,1127.17,2254.34,Cash,Surulere,Samuel Ade
+PM-0170,2025-01-09,CUST-0092,Sugar 1kg,Groceries,6,1844.39,11066.34,Cash,Lekki,David Okoro
+PM-0171,2025-10-07,CUST-0087,Cooking Oil 1L,Groceries,3,3529.7,10589.1,Card,Surulere,Samuel Ade
+PM-0172,2025-08-23,CUST-0010,Orange Juice,Beverages,2,1275.85,2551.7,Bank Transfer,Yaba,Amina Yusuf
+PM-0173,2025-09-21,CUST-0102,Bottled Water,Beverages,6,387.34,2324.04,Mobile Money,Lekki,Amina Yusuf
+PM-0174,2025-01-25,CUST-0168,Soft Drink,Beverages,6,546.21,3277.26,Bank Transfer,Lekki,Amina Yusuf
+PM-0175,2025-07-17,CUST-0087,Floor Cleaner,Household,7,2244.19,15709.33,Card,Surulere,Samuel Ade
+PM-0176,2025-02-10,CUST-0111,Toilet Tissue Pack,Household,2,1917.75,3835.5,Card,Lekki,Grace Bello
+PM-0177,2025-06-06,CUST-0115,Rice 5kg,Groceries,6,8943.56,53661.36,Mobile Money,Yaba,Samuel Ade
+PM-0178,2025-06-30,CUST-0158,Floor Cleaner,Household,1,2237.26,2237.26,Mobile Money,Lekki,Amina Yusuf
+PM-0179,2025-12-14,CUST-0041,Sugar 1kg,Groceries,6,1942.97,11657.82,Cash,Yaba,Samuel Ade
+PM-0180,2025-11-27,CUST-0094,Beans 2kg,Groceries,2,4062.24,8124.48,Bank Transfer,Surulere,Amina Yusuf
+PM-0181,2025-02-09,CUST-0147,Coffee 200g,Beverages,6,2585.45,15512.7,Card,Lekki,Samuel Ade
+PM-0182,2025-01-14,CUST-0048,Toilet Tissue Pack,Household,4,2001.79,8007.16,Mobile Money,Surulere,Amina Yusuf
+PM-0183,2025-11-10,CUST-0074,Toilet Tissue Pack,Household,8,1733.25,13866.0,Mobile Money,Yaba,Amina Yusuf
+PM-0184,2025-08-16,CUST-0023,Bottled Water,Beverages,8,334.09,2672.72,Bank Transfer,Lekki,Amina Yusuf
+PM-0185,2025-12-25,CUST-0164,Toilet Tissue Pack,Household,3,1912.25,5736.75,Card,Lekki,David Okoro
+PM-0186,2025-09-10,CUST-0007,Beans 2kg,Groceries,3,4062.86,12188.58,Bank Transfer,Lekki,Samuel Ade
+PM-0187,2025-09-03,CUST-0135,Bottled Water,Beverages,2,343.65,687.3,Mobile Money,Surulere,Amina Yusuf
+PM-0188,2025-12-15,CUST-0133,Soft Drink,Beverages,2,505.0,1010.0,Bank Transfer,Yaba,David Okoro
+PM-0189,2025-09-23,CUST-0040,Coffee 200g,Beverages,1,2824.32,2824.32,Bank Transfer,Yaba,David Okoro
+PM-0190,2025-09-23,CUST-0073,Dish Soap,Household,6,1054.02,6324.12,Cash,Lekki,David Okoro
+PM-0191,2025-02-17,CUST-0129,Dish Soap,Household,5,990.74,4953.7,Card,Yaba,David Okoro
+PM-0192,2025-11-25,CUST-0148,Laundry Detergent,Household,1,2995.98,2995.98,Bank Transfer,Yaba,Samuel Ade
+PM-0193,2025-06-04,CUST-0124,Sugar 1kg,Groceries,5,1991.92,9959.6,Card,Surulere,Grace Bello
+PM-0194,2025-08-01,CUST-0124,Bathing Soap Pack,Personal Care,1,1332.26,1332.26,Mobile Money,Yaba,Grace Bello
+PM-0195,2025-06-26,CUST-0103,Soft Drink,Beverages,6,533.42,3200.52,Card,Lekki,Amina Yusuf
+PM-0196,2025-08-19,CUST-0064,Dish Soap,Household,8,897.28,7178.24,Card,Ikeja,Amina Yusuf
+PM-0197,2025-03-23,CUST-0084,Floor Cleaner,Household,7,2036.27,14253.89,Bank Transfer,Yaba,David Okoro
+PM-0198,2025-09-12,CUST-0006,Shampoo,Personal Care,8,2629.96,21039.68,Cash,Surulere,Samuel Ade
+PM-0199,2025-05-25,CUST-0127,Orange Juice,Beverages,6,1115.68,6694.08,Mobile Money,Lekki,Amina Yusuf
+PM-0200,2025-07-07,CUST-0104,Sugar 1kg, groceries ,3,2083.33,6249.99,Bank Transfer,Ikeja,Samuel Ade
+PM-0201,2025-02-07,CUST-0099,Beans 2kg,Groceries,6,4328.71,25972.26,Mobile Money,Lekki,Amina Yusuf
+PM-0202,2025-06-23,CUST-0143,Bottled Water,Beverages,7,348.12,2436.84,Bank Transfer,Yaba,David Okoro
+PM-0203,2025-06-20,CUST-0122,Bathing Soap Pack,Personal Care,1,1298.9,1298.9,Mobile Money,Yaba,David Okoro
+PM-0204,2025-11-12,CUST-0077,Toilet Tissue Pack,Household,3,1797.46,5392.38,Bank Transfer,Surulere,Grace Bello
+PM-0205,2025-02-26,CUST-0107,Bathing Soap Pack,Personal Care,6,1380.75,8284.5,Bank Transfer,Ikeja,Samuel Ade
+PM-0206,2025-03-29,CUST-0135,Dish Soap,Household,1,984.87,984.87,Mobile Money,Yaba,David Okoro
+PM-0207,2025-06-10,CUST-0108,Rice 5kg,Groceries,4,7852.19,31408.76,Card,Surulere,David Okoro
+PM-0208,2025-09-23,CUST-0054,Shampoo,Personal Care,1,2546.77,2546.77,Bank Transfer,Surulere,Samuel Ade
+PM-0209,2025-06-25,CUST-0140,Dish Soap,Household,8,1047.3,8378.4,Bank Transfer,Lekki,Samuel Ade
+PM-0210,2025-04-26,CUST-0077,Orange Juice,Beverages,5,1237.94,6189.7,Bank Transfer,Yaba,Samuel Ade
+PM-0211,2025-05-21,CUST-0074,Floor Cleaner,Household,6,2167.4,13004.4,Cash,Surulere,Samuel Ade
+PM-0212,2025-02-10,CUST-0089,Dish Soap,Household,5,881.99,4409.95,Mobile Money,Lekki,Samuel Ade
+PM-0213,2025-12-23,CUST-0070,Orange Juice,Beverages,5,1327.93,6639.65,Card,Ikeja,David Okoro
+PM-0214,2025-01-27,CUST-0026,Bottled Water,Beverages,4,366.66,1466.64,Mobile Money,Lekki,Samuel Ade
+PM-0215,2025-03-22,CUST-0105,Beans 2kg,Groceries,1,4674.2,4674.2,Mobile Money,Surulere,David Okoro
+PM-0216,2025-02-15,CUST-0167,Toilet Tissue Pack,Household,5,1888.52,9442.6,Card,Ikeja,David Okoro
+PM-0217,2025-07-23,CUST-0127,Toothpaste,Personal Care,1,1231.38,1231.38,Card,Lekki,Amina Yusuf
+PM-0218,2025-06-21,CUST-0073,Cooking Oil 1L,Groceries,2,4201.63,8403.26,Mobile Money,Surulere,David Okoro
+PM-0219,2025-06-19,CUST-0042,Body Lotion,Personal Care,4,3137.11,12548.44,Mobile Money,Lekki,David Okoro
+PM-0220,2025-04-09,CUST-0045,Cooking Oil 1L,Groceries,5,3927.51,19637.55,Mobile Money,Surulere,Grace Bello
+PM-0221,2025-03-13,CUST-0123,Sugar 1kg,Groceries,2,1818.22,3636.44,Bank Transfer,Yaba,Amina Yusuf
+PM-0222,2025-05-17,CUST-0085,Floor Cleaner,Household,4,2119.63,8478.52,Bank Transfer,Ikeja,Grace Bello
+PM-0223,2025-08-27,CUST-0079,Dish Soap,Household,1,1000.88,1000.88,Card,Surulere,Grace Bello
+PM-0224,2025-04-23,CUST-0035,Cooking Oil 1L,Groceries,6,3963.12,23778.72,Mobile Money,Yaba,Samuel Ade
+PM-0225,2025-12-07,CUST-0056,Floor Cleaner,Household,8,2250.09,18000.72,Card,Ikeja,Samuel Ade
+PM-0226,2025-10-08,CUST-0130,Laundry Detergent,Household,2,2983.53,5967.06,Card,Yaba,David Okoro
+PM-0227,2025-10-26,CUST-0126,Floor Cleaner,Household,2,2217.72,4435.44,Cash,Surulere,Amina Yusuf
+PM-0228,2025-01-30,CUST-0144,Toothpaste,Personal Care,7,1112.5,7787.5,Mobile Money,Lekki,Amina Yusuf
+PM-0229,2025-10-24,CUST-0019,Body Lotion,Personal Care,1,3100.57,3100.57,Cash,Surulere,Grace Bello
+PM-0230,2025-08-30,CUST-0009,Rice 5kg,Groceries,2,9496.43,18992.86,Bank Transfer,Surulere,David Okoro
+PM-0231,2025-07-15,CUST-0115,Coffee 200g,Beverages,6,2908.29,17449.74,Mobile Money,Surulere,Amina Yusuf
+PM-0232,2025-10-03,CUST-0101,Soft Drink,Beverages,2,477.85,955.7,Card,Yaba,Amina Yusuf
+PM-0233,2025-10-06,CUST-0109,Cooking Oil 1L,Groceries,8,4007.86,32062.88,Mobile Money,Yaba,David Okoro
+PM-0234,2025-02-27,CUST-0009,Body Lotion,Personal Care,3,2827.88,8483.64,Mobile Money,Ikeja,David Okoro
+PM-0235,2025-08-17,CUST-0154,Bottled Water,Beverages,2,363.58,727.16,Cash,Yaba,Amina Yusuf
+PM-0236,2025-01-29,CUST-0036,Shampoo,Personal Care,4,2467.08,9868.32,Bank Transfer,Yaba,Grace Bello
+PM-0237,2025-12-05,CUST-0134,Dish Soap,Household,5,1040.49,5202.45,Card,Surulere,Grace Bello
+PM-0238,2025-08-07,CUST-0143,Laundry Detergent,Household,3,3344.64,10033.92,Mobile Money,Ikeja,Grace Bello
+PM-0239,2025-06-03,CUST-0097,Body Lotion,Personal Care,7,2904.79,20333.53,Card,Surulere,David Okoro
+PM-0240,2025-01-30,CUST-0144,Soft Drink,Beverages,3,540.58,1621.74,Mobile Money,Surulere,David Okoro
+PM-0241,2025-11-28,CUST-0021,Toothpaste,Personal Care,5,1056.73,5283.65,Mobile Money,Lekki,Amina Yusuf
+PM-0242,2025-11-06,CUST-0155,Bottled Water,Beverages,5,348.4,1742.0,Cash,Ikeja,David Okoro
+PM-0243,2025-06-20,CUST-0078,Coffee 200g,Beverages,4,2844.13,11376.52,Cash,Yaba,David Okoro
+PM-0244,2025-12-27,CUST-0053,Sugar 1kg,Groceries,4,2012.34,8049.36,Mobile Money,Yaba,Grace Bello
+PM-0245,2025-07-03,CUST-0079,Floor Cleaner,Household,8,2156.13,17249.04,Bank Transfer,Lekki,Samuel Ade
+PM-0246,2025-06-13,CUST-0053,Bathing Soap Pack,Personal Care,8,1501.26,12010.08,Bank Transfer,Lekki,Samuel Ade
+PM-0247,2025-10-11,CUST-0150,Beans 2kg,Groceries,3,3877.62,11632.86,Mobile Money,Lekki,David Okoro
+PM-0248,2025-05-06,CUST-0128,Soft Drink,Beverages,4,497.98,1991.92,Bank Transfer,Lekki,Samuel Ade
+PM-0249,2025-06-30,CUST-0044,Shampoo,Personal Care,3,2559.73,7679.19,Card,Surulere,David Okoro
+PM-0250,2025-12-09,CUST-0013,Rice 5kg,Groceries,2,9426.82,18853.64,Cash,Surulere,David Okoro
+PM-0251,2025-09-16,CUST-0117,Bottled Water,Beverages,3,322.64,967.92,Bank Transfer,Ikeja,Samuel Ade
+PM-0252,2025-07-30,CUST-0004,Bathing Soap Pack,Personal Care,1,1437.02,1437.02,Cash,Lekki,Grace Bello
+PM-0253,2025-02-19,CUST-0135,Sugar 1kg,Groceries,3,1788.67,5366.01,Card,Yaba,David Okoro
+PM-0254,2025-02-10,CUST-0096,Toilet Tissue Pack,Household,5,1942.18,9710.9,Mobile Money,Surulere,David Okoro
+PM-0255,2025-11-29,CUST-0009,Soft Drink,Beverages,2,525.37,1050.74,Cash,Surulere,Samuel Ade
+PM-0256,2025-12-26,CUST-0044,Shampoo,Personal Care,1,2513.64,2513.64,Cash,Surulere,Samuel Ade
+PM-0257,2025-12-21,CUST-0146,Laundry Detergent,Household,1,3091.05,3091.05,Mobile Money,Lekki,Amina Yusuf
+PM-0258,2025-06-11,CUST-0005,Cooking Oil 1L,Groceries,1,3632.31,3632.31,Card,Yaba,Samuel Ade
+PM-0259,2025-10-18,CUST-0100,Cooking Oil 1L,Groceries,3,3924.61,11773.83,Bank Transfer,Surulere,David Okoro
+PM-0260,2025-04-29,CUST-0020,Cooking Oil 1L,Groceries,1,3570.24,3570.24,Bank Transfer,Surulere,Grace Bello
+PM-0261,2025-07-02,CUST-0142,Cooking Oil 1L,Groceries,8,3868.86,30950.88,Mobile Money,Surulere,David Okoro
+PM-0262,2025-02-07,CUST-0022,Bathing Soap Pack,Personal Care,5,1511.46,7557.3,Bank Transfer,Yaba,Samuel Ade
+PM-0263,2025-02-16,CUST-0002,Coffee 200g,Beverages,6,2579.56,15477.36,Bank Transfer,Surulere,Grace Bello
+PM-0264,2025-08-09,CUST-0115,Laundry Detergent,Household,3,2999.87,8999.61,Mobile Money,Ikeja,Amina Yusuf
+PM-0265,2025-06-16,CUST-0099,Cooking Oil 1L,Groceries,2,3949.66,7899.32,Cash,Lekki,Samuel Ade
+PM-0266,2025-03-28,CUST-0176,Bathing Soap Pack,Personal Care,4,1448.15,5792.6,Mobile Money,Yaba,David Okoro
+PM-0267,2025-02-02,CUST-0043,Toilet Tissue Pack,Household,5,1833.52,9167.6,Mobile Money,Lekki,Samuel Ade
+PM-0268,2025-05-07,CUST-0161,Floor Cleaner,Household,2,2083.67,4167.34,Mobile Money,Yaba,Samuel Ade
+PM-0269,2025-07-22,CUST-0086,Beans 2kg,Groceries,5,3869.68,19348.4,Mobile Money,Lekki,Samuel Ade
+PM-0270,2025-11-05,CUST-0178,Floor Cleaner,Household,3,2058.18,6174.54,Card,Surulere,Grace Bello
+PM-0271,2025-12-22,CUST-0163,Coffee 200g,Beverages,6,2543.55,15261.3,Mobile Money,Yaba,Grace Bello
+PM-0272,2025-10-16,CUST-0052,Body Lotion,Personal Care,7,2879.71,20157.97,Card,Ikeja,Samuel Ade
+PM-0273,2025-02-05,CUST-0105,Coffee 200g,Beverages,5,2824.27,14121.35,Mobile Money,Yaba,Grace Bello
+PM-0274,2025-07-13,CUST-0019,Soft Drink,Beverages,3,531.52,1594.56,Mobile Money,Surulere,Samuel Ade
+PM-0275,2025-10-02,CUST-0153,Bathing Soap Pack,Personal Care,6,1484.46,8906.76,Cash,Ikeja,David Okoro
+PM-0276,2025-11-27,CUST-0174,Dish Soap,Household,1,981.01,981.01,Mobile Money,Lekki,Samuel Ade
+PM-0277,2025-09-19,CUST-0133,Rice 5kg,Groceries,2,8259.86,16519.72,Card,Surulere,Grace Bello
+PM-0278,2025-01-13,CUST-0124,Shampoo,Personal Care,3,2373.58,7120.74,Cash,Lekki,Samuel Ade
+PM-0279,2025-06-25,CUST-0117,Rice 5kg,Groceries,3,8412.16,25236.48,Card,Surulere,Grace Bello
+PM-0280,2025-08-20,CUST-0082,Bathing Soap Pack,Personal Care,8,1490.16,11921.28,Cash,Lekki,Amina Yusuf
+PM-0281,2025-12-13,CUST-0043,Rice 5kg,Groceries,6,8921.55,53529.3,Card,Yaba,David Okoro
+PM-0282,2025-07-27,CUST-0162,Floor Cleaner,Household,8,2029.38,16235.04,Card,Yaba,Samuel Ade
+PM-0283,2025-08-08,CUST-0100,Bathing Soap Pack,Personal Care,4,1413.88,5655.52,Cash,Yaba,David Okoro
+PM-0284,2025-10-02,CUST-0048,Laundry Detergent,Household,2,3455.68,6911.36,Bank Transfer,Lekki,David Okoro
+PM-0285,2025-09-08,CUST-0136,Bathing Soap Pack,Personal Care,5,1475.8,7379.0,Bank Transfer,Surulere,Samuel Ade
+PM-0286,2025-11-13,CUST-0045,Cooking Oil 1L,Groceries,6,4138.59,24831.54,Bank Transfer,Ikeja,David Okoro
+PM-0287,2025-04-04,CUST-0096,Laundry Detergent,Household,4,3139.44,12557.76,Card,Surulere,Samuel Ade
+PM-0288,2025-11-22,CUST-0138,Coffee 200g,Beverages,7,2488.59,17420.13,Card,Yaba,Samuel Ade
+PM-0289,2025-08-19,,Dish Soap,Household,3,933.77,2801.31,Cash,Lekki,Amina Yusuf
+PM-0290,2025-10-15,CUST-0130,Toothpaste,Personal Care,4,1191.35,4765.4,Mobile Money,Surulere,Samuel Ade
+PM-0291,2025-10-17,CUST-0008,Shampoo,Personal Care,8,2288.28,18306.24,Card,Lekki,Amina Yusuf
+PM-0292,2025-08-23,CUST-0145,Dish Soap,Household,5,905.96,4529.8,Mobile Money,Ikeja,Amina Yusuf
+PM-0293,2025-08-14,CUST-0140,Toilet Tissue Pack,Household,1,1929.6,1929.6,Card,Surulere,Amina Yusuf
+PM-0294,2025-06-28,CUST-0023,Soft Drink,Beverages,1,504.97,504.97,Mobile Money,Ikeja,David Okoro
+PM-0295,2025-03-13,CUST-0053,Soft Drink,Beverages,7,476.6,3336.2,Card,Ikeja,Grace Bello
+PM-0296,2025-05-30,CUST-0075,Dish Soap,Household,6,1060.01,6360.06,Bank Transfer,Ikeja,David Okoro
+PM-0297,2025-03-06,CUST-0180,Bathing Soap Pack,Personal Care,5,1530.77,7653.85,Card,Yaba,David Okoro
+PM-0298,2025-10-23,CUST-0162,Dish Soap,Household,7,967.0,6769.0,Bank Transfer,Surulere,Samuel Ade
+PM-0299,2025-05-23,CUST-0178,Bathing Soap Pack,Personal Care,2,1400.8,2801.6,Bank Transfer,Surulere,Samuel Ade
+PM-0300,2025-08-23,CUST-0163,Laundry Detergent,Household,2,3411.8,6823.6,Bank Transfer,Ikeja,Samuel Ade
+PM-0301,2025-06-15,CUST-0073,Coffee 200g,Beverages,4,2649.25,10597.0,Bank Transfer,Yaba,Samuel Ade
+PM-0302,2025-08-24,CUST-0005,Laundry Detergent,Household,1,3007.73,3007.73,Cash,Yaba,Samuel Ade
+PM-0303,2025-12-19,CUST-0034,Bathing Soap Pack,Personal Care,7,1344.65,9412.55,Bank Transfer,Yaba,Grace Bello
+PM-0304,2025-12-07,CUST-0167,Cooking Oil 1L,Groceries,5,3558.64,17793.2,Card,Ikeja,Samuel Ade
+PM-0305,2025-12-27,CUST-0025,Dish Soap,Household,7,998.54,6989.78,Cash,Yaba,Samuel Ade
+PM-0306,2025-08-16,CUST-0003,Beans 2kg,Groceries,4,4300.33,17201.32,Cash,Lekki,Amina Yusuf
+PM-0307,2025-07-16,CUST-0023,Toothpaste,Personal Care,8,1027.58,8220.64,Cash,Ikeja,Grace Bello
+PM-0308,2025-03-10,CUST-0165,Toilet Tissue Pack,Household,3,1793.78,5381.34,Card,Ikeja,Amina Yusuf
+PM-0309,2025-11-18,CUST-0039,Coffee 200g,Beverages,6,2767.66,16605.96,Mobile Money,Surulere,David Okoro
+PM-0310,2025-10-29,CUST-0099,Rice 5kg,Groceries,3,9099.16,27297.48,Bank Transfer,Surulere,Grace Bello
+PM-0311,2025-05-08,CUST-0142,Orange Juice,Beverages,5,1258.71,6293.55,Bank Transfer,Ikeja,Grace Bello
+PM-0312,2025-01-28,CUST-0062,Orange Juice,Beverages,7,1174.93,8224.51,Mobile Money,Surulere,Amina Yusuf
+PM-0313,2025-01-07,CUST-0093,Coffee 200g,Beverages,2,2666.71,5333.42,Bank Transfer, ikeja ,Samuel Ade
+PM-0314,2025-02-07,CUST-0005,Body Lotion,Personal Care,3,3110.38,9331.14,Cash,Ikeja,Grace Bello
+PM-0315,2025-07-23,CUST-0130,Bottled Water,Beverages,1,388.41,388.41,Bank Transfer,Surulere,Samuel Ade
+PM-0316,2025-06-08,CUST-0021,Bathing Soap Pack,Personal Care,3,1365.69,4097.07,Card,Yaba,Grace Bello
+PM-0317,2025-05-03,CUST-0015,Bathing Soap Pack,Personal Care,5,1483.63,7418.15,Card,Ikeja,Samuel Ade
+PM-0318,2025-12-03,CUST-0045,Sugar 1kg,Groceries,1,1865.53,1865.53,Cash,Ikeja,David Okoro
+PM-0319,2025-09-25,CUST-0133,Beans 2kg,Groceries,8,4664.53,37316.24,Bank Transfer,Yaba,Grace Bello
+PM-0320,2025-01-16,CUST-0086,Soft Drink,Beverages,2,537.14,1074.28,Mobile Money,Lekki,Amina Yusuf
+PM-0321,2025-07-04,CUST-0015,Laundry Detergent,Household,8,3235.33,25882.64,Mobile Money,Yaba,Grace Bello
+PM-0322,2025-12-12,CUST-0030,Soft Drink,Beverages,2,549.43,1098.86,Card,Ikeja,Amina Yusuf
+PM-0323,2025-07-16,CUST-0039,Beans 2kg,Groceries,1,4260.28,4260.28,Card,Ikeja,Samuel Ade
+PM-0324,2025-06-13,CUST-0070,Soft Drink,Beverages,4,501.63,2006.52,Cash,Lekki,Amina Yusuf
+PM-0325,2025-01-24,CUST-0103,Beans 2kg,Groceries,4,4539.64,18158.56,Cash,Surulere,Grace Bello
+PM-0326,2025-01-05,CUST-0095,Toilet Tissue Pack,Household,2,1855.11,3710.22,Card,Lekki,Grace Bello
+PM-0327,2025-09-10,CUST-0051,Coffee 200g,Beverages,6,2699.68,16198.08,Card,Yaba,Amina Yusuf
+PM-0328,2025-11-22,CUST-0178,Bathing Soap Pack,Personal Care,4,1439.63,5758.52,Cash,Lekki,Amina Yusuf
+PM-0329,2025-05-02,CUST-0108,Body Lotion,Personal Care,2,2787.01,5574.02,Mobile Money,Ikeja,David Okoro
+PM-0330,2025-09-24,CUST-0106,Laundry Detergent,Household,1,3533.62,3533.62,Bank Transfer,Surulere,Amina Yusuf
+PM-0331,2025-10-18,CUST-0016,Beans 2kg,Groceries,7,3926.86,27488.02,Mobile Money,Yaba,David Okoro
+PM-0332,2025-07-21,CUST-0180,Toilet Tissue Pack,Household,6,1989.38,11936.28,Bank Transfer,Lekki,Samuel Ade
+PM-0333,2025-03-11,CUST-0150,Dish Soap,Household,2,1053.28,2106.56,Cash,Yaba,Amina Yusuf
+PM-0334,2025-03-03,CUST-0138,Coffee 200g,Beverages,8,2555.3,20442.4,Bank Transfer,Yaba,Samuel Ade
+PM-0335,2025-02-16,CUST-0041,Floor Cleaner,Household,5,2290.04,11450.2,Bank Transfer,Ikeja,David Okoro
+PM-0336,2025-07-02,CUST-0102,Dish Soap,Household,2,1009.12,2018.24,Cash,Lekki,Grace Bello
+PM-0337,2025-10-12,CUST-0141,Bottled Water,Beverages,7,381.82,2672.74,Card,Ikeja,Samuel Ade
+PM-0338,2025-04-24,CUST-0034,Beans 2kg,Groceries,2,3874.04,7748.08,Card,Surulere,Grace Bello
+PM-0339,2025-02-03,CUST-0051,Cooking Oil 1L,Groceries,2,3512.57,7025.14,Mobile Money,Yaba,Amina Yusuf
+PM-0340,2025-01-26,CUST-0044,Laundry Detergent,Household,1,3547.06,3547.06,Mobile Money,Surulere,Samuel Ade
+PM-0341,2025-04-20,CUST-0048,Sugar 1kg,Groceries,7,1813.67,12695.69,Bank Transfer,Lekki,Samuel Ade
+PM-0342,2025-09-13,CUST-0106,Bottled Water,Beverages,4,367.31,1469.24,Mobile Money,Ikeja,Amina Yusuf
+PM-0343,2025-11-26,CUST-0135,Floor Cleaner,Household,3,2108.08,6324.24,Card,Ikeja,Samuel Ade
+PM-0344,2025-10-17,CUST-0129,Floor Cleaner,Household,8,2076.49,16611.92,Bank Transfer,Surulere,Grace Bello
+PM-0345,2025-01-16,CUST-0072,Bottled Water,Beverages,6,363.8,2182.8,Cash,Surulere,Grace Bello
+PM-0346,2025-05-04,CUST-0069,Orange Juice,Beverages,2,1163.49,2326.98,Cash,Yaba,Samuel Ade
+PM-0347,2025-06-12,CUST-0179,Dish Soap,Household,3,918.94,2756.82,Bank Transfer,Ikeja,Grace Bello
+PM-0348,2025-03-31,CUST-0126,Orange Juice,Beverages,8,1234.11,9872.88,Cash,Ikeja,Amina Yusuf
+PM-0349,2025-01-01,CUST-0085,Orange Juice,Beverages,1,1230.35,1230.35,Card,Yaba,Grace Bello
+PM-0350,2025-10-28,CUST-0037,Soft Drink,Beverages,1,462.19,462.19,Cash,Lekki,Amina Yusuf
+PM-0351,2025-06-15,CUST-0035,Floor Cleaner,Household,2,2073.36,4146.72,Card,Surulere,Samuel Ade
+PM-0352,2025-10-29,CUST-0045,Dish Soap,Household,6,916.42,5498.52,Mobile Money,Lekki,Grace Bello
+PM-0353,2025-10-21,CUST-0101,Orange Juice,Beverages,1,1331.71,1331.71,Cash,Yaba,Grace Bello
+PM-0354,2025-02-09,CUST-0061,Bottled Water,Beverages,8,331.85,2654.8,Bank Transfer,Lekki,David Okoro
+PM-0355,2025-04-18,CUST-0064,Cooking Oil 1L,Groceries,8,3504.66,28037.28,Cash,Lekki,Grace Bello
+PM-0356,2025-08-03,CUST-0043,Rice 5kg,Groceries,1,8476.09,8476.09,Mobile Money,Surulere,Samuel Ade
+PM-0357,2025-10-23,CUST-0167,Floor Cleaner,Household,2,2280.1,4560.2,Card,Yaba,Samuel Ade
+PM-0358,2025-05-14,CUST-0027,Rice 5kg,Groceries,5,7854.13,39270.65,Cash,Lekki,David Okoro
+PM-0359,2025-02-17,CUST-0087,Toothpaste,Personal Care,2,1132.35,2264.7,Mobile Money,Ikeja,Samuel Ade
+PM-0360,2025-06-19,CUST-0053,Coffee 200g,Beverages,3,2419.85,7259.55,Card,Surulere,Grace Bello
+PM-0361,2025-07-21,CUST-0147,Toilet Tissue Pack,Household,4,1690.53,6762.12,Mobile Money,Yaba,Amina Yusuf
+PM-0362,2025-12-05,CUST-0161,Laundry Detergent,Household,7,3000.08,21000.56,Mobile Money,Yaba,Amina Yusuf
+PM-0363,2025-02-11,CUST-0122,Beans 2kg,Groceries,3,4400.08,13200.24,Cash,Lekki,Samuel Ade
+PM-0364,2025-10-06,CUST-0100,Shampoo,Personal Care,5,2251.75,11258.75,Card,Lekki,Samuel Ade
+PM-0365,2025-08-14,CUST-0120,Dish Soap,Household,8,882.48,7059.84,Bank Transfer,Yaba,Grace Bello
+PM-0366,2025-06-26,CUST-0139,Beans 2kg,Groceries,2,3935.99,7871.98,Mobile Money,Yaba,Amina Yusuf
+PM-0367,2025-05-01,CUST-0122,Shampoo,Personal Care,8,2482.9,19863.2,Bank Transfer,Ikeja,Samuel Ade
+PM-0368,2025-08-18,CUST-0045,Beans 2kg,Groceries,2,4661.37,9322.74,Card,Yaba,David Okoro
+PM-0369,2025-12-16,CUST-0112,Bottled Water,Beverages,7,327.49,2292.43,Card,Yaba,Grace Bello
+PM-0370,2025-07-23,CUST-0142,Laundry Detergent,Household,2,3192.38,6384.76,Bank Transfer,Lekki,Samuel Ade
+PM-0371,2025-03-17,CUST-0146,Sugar 1kg,Groceries,2,1905.49,3810.98,Cash,Ikeja,Amina Yusuf
+PM-0372,2025-12-02,CUST-0125,Toilet Tissue Pack,Household,7,1751.09,12257.63,Mobile Money,Ikeja,David Okoro
+PM-0373,2025-12-15,CUST-0178,Floor Cleaner,Household,3,2191.66,6574.98,Mobile Money,Ikeja,Samuel Ade
+PM-0374,2025-05-18,CUST-0096,Dish Soap,Household,1,1015.69,1015.69,Cash,Lekki,Grace Bello
+PM-0375,2025-12-17,CUST-0026,Toilet Tissue Pack,Household,8,1964.96,15719.68,Card,Yaba,Grace Bello
+PM-0376,2025-11-06,CUST-0166,Body Lotion,Personal Care,5,3090.7,15453.5,Cash,Yaba,Samuel Ade
+PM-0377,2025-07-11,CUST-0015,Coffee 200g,Beverages,8,2786.94,22295.52,Card,Ikeja,Grace Bello
+PM-0378,2025-04-13,CUST-0015,Toothpaste,Personal Care,1,1050.22,1050.22,Card,Ikeja,Samuel Ade
+PM-0379,2025-08-26,CUST-0130,Cooking Oil 1L,Groceries,4,3704.22,14816.88,Mobile Money,Ikeja,Amina Yusuf
+PM-0380,2025-04-01,CUST-0122,Soft Drink,Beverages,8,519.4,4155.2,Bank Transfer,Lekki,David Okoro
+PM-0381,2025-01-26,CUST-0042,Laundry Detergent,Household,5,2961.57,14807.85,Card,Yaba,David Okoro
+PM-0382,2025-12-16,CUST-0003,Soft Drink,Beverages,7,511.33,3579.31,Mobile Money,Yaba,David Okoro
+PM-0383,2025-06-06,CUST-0165,Beans 2kg,Groceries,5,4375.01,21875.05,Bank Transfer,Surulere,Samuel Ade
+PM-0384,2025-06-04,CUST-0174,Floor Cleaner,Household,5,2023.65,10118.25,Mobile Money,Ikeja,Amina Yusuf
+PM-0385,2025-09-04,CUST-0017,Toilet Tissue Pack,Household,5,1902.39,9511.95,Bank Transfer,Lekki,Grace Bello
+PM-0386,2025-09-22,CUST-0062,Toilet Tissue Pack,Household,5,1723.81,8619.05,Cash,Surulere,Grace Bello
+PM-0387,2025-05-13,CUST-0108,Bottled Water,Beverages,8,391.82,3134.56,Mobile Money,Surulere,Amina Yusuf
+PM-0388,2025-11-23,CUST-0122,Soft Drink,Beverages,4,528.63,2114.52,Bank Transfer,Lekki,David Okoro
+PM-0389,2025-05-13,CUST-0144,Soft Drink,Beverages,2,507.08,1014.16,Card,Lekki,Amina Yusuf
+PM-0390,2025-06-07,CUST-0108,Soft Drink,Beverages,4,534.42,2137.68,Bank Transfer,Lekki,Grace Bello
+PM-0391,2025-11-21,CUST-0150,Floor Cleaner,Household,2,2129.63,4259.26,Cash,Surulere,David Okoro
+PM-0392,2025-03-19,CUST-0036,Sugar 1kg,Groceries,5,1904.98,9524.9,Card,Lekki,Samuel Ade
+PM-0393,2025-04-03,CUST-0021,Toothpaste,Personal Care,6,1201.73,7210.38,Mobile Money,Lekki,David Okoro
+PM-0394,2025-04-18,CUST-0044,Laundry Detergent,Household,1,3233.31,3233.31,Card,Surulere,Amina Yusuf
+PM-0395,2025-09-02,CUST-0099,Coffee 200g,Beverages,7,2601.76,18212.32,Cash,Ikeja,David Okoro
+PM-0396,2025-09-29,CUST-0049,Laundry Detergent,Household,6,3428.38,20570.28,Cash,Ikeja,David Okoro
+PM-0397,2025-07-16,CUST-0129,Soft Drink,Beverages,5,472.89,2364.45,Bank Transfer,Yaba,Amina Yusuf
+PM-0398,2025-09-24,CUST-0153,Cooking Oil 1L,Groceries,5,3842.5,19212.5,Bank Transfer,Surulere,David Okoro
+PM-0399,2025-03-26,CUST-0104,Floor Cleaner,Household,6,2247.05,13482.3,Cash,Yaba,David Okoro
+PM-0400,2025-03-28,CUST-0032,Orange Juice,Beverages,1,1245.53,1245.53,Bank Transfer,Ikeja,Samuel Ade
+PM-0401,2025-12-01,CUST-0006,Laundry Detergent,Household,1,3367.66,3367.66,Cash,Ikeja,Samuel Ade
+PM-0402,2025-08-31,CUST-0180,Shampoo,Personal Care,2,2470.7,4941.4,Card,Yaba,Amina Yusuf
+PM-0403,2025-05-19,CUST-0160,Floor Cleaner,Household,2,2210.24,4420.48,Card,Surulere,Amina Yusuf
+PM-0404,2025-09-12,CUST-0051,Cooking Oil 1L,Groceries,2,4092.42,8184.84,Card,Lekki,David Okoro
+PM-0405,2025-10-08,CUST-0128,Floor Cleaner,Household,5,1999.36,9996.8,Card,Surulere,Grace Bello
+PM-0406,2025-02-26,CUST-0147,Bottled Water,Beverages,1,369.01,369.01,Mobile Money,Yaba,Amina Yusuf
+PM-0407,2025-08-22,CUST-0076,Rice 5kg,Groceries,5,8915.37,44576.85,Bank Transfer,Surulere,Amina Yusuf
+PM-0408,2025-07-04,CUST-0174,Beans 2kg,Groceries,1,4579.89,4579.89,Bank Transfer,Surulere,Amina Yusuf
+PM-0409,2025-12-06,CUST-0166,Rice 5kg,Groceries,1,9268.4,9268.4,Card,Lekki,Grace Bello
+PM-0410,2025-06-25,CUST-0047,Body Lotion,Personal Care,2,2884.12,5768.24,Cash,Surulere,Samuel Ade
+PM-0411,2025-09-02,CUST-0108,Body Lotion,Personal Care,7,3068.14,21476.98,Card,Ikeja,David Okoro
+PM-0412,2025-10-30,CUST-0124,Beans 2kg,Groceries,2,4213.46,8426.92,Mobile Money,Yaba,Samuel Ade
+PM-0413,2025-09-07,CUST-0029,Laundry Detergent,Household,3,3253.17,9759.51,Mobile Money,Surulere,Amina Yusuf
+PM-0414,2025-12-14,CUST-0135,Cooking Oil 1L,Groceries,6,3505.39,21032.34,Card,Lekki,Amina Yusuf
+PM-0415,2025-12-13,CUST-0165,Toothpaste,Personal Care,8,1088.06,8704.48,Mobile Money,Yaba,Amina Yusuf
+PM-0416,2025-03-26,CUST-0020,Beans 2kg,Groceries,8,4579.57,36636.56,Mobile Money,Lekki,David Okoro
+PM-0417,2025-10-09,CUST-0165,Toilet Tissue Pack,Household,1,1838.49,1838.49,Mobile Money,Surulere,David Okoro
+PM-0418,2025-08-18,CUST-0023,Sugar 1kg,Groceries,8,2052.48,16419.84,Mobile Money,Surulere,Grace Bello
+PM-0419,2025-07-31,CUST-0010,Sugar 1kg,Groceries,1,1787.0,1787.0,Cash,Ikeja,Grace Bello
+PM-0420,2025-01-28,CUST-0058,Coffee 200g,Beverages,6,2580.94,15485.64,Mobile Money,Lekki,Samuel Ade
+PM-0421,2025-12-04,CUST-0057,Floor Cleaner,Household,2,1972.92,3945.84,Cash,Lekki,Grace Bello
+PM-0422,2025-03-26,CUST-0127,Toilet Tissue Pack,Household,2,1672.48,3344.96,Card,Surulere,
+PM-0423,2025-07-21,CUST-0056,Dish Soap,Household,4,896.94,3587.76,Mobile Money,Yaba,Grace Bello
+PM-0424,2025-12-11,CUST-0151,Sugar 1kg,Groceries,1,2100.12,2100.12,Cash,Surulere,Samuel Ade
+PM-0425,2025-01-25,CUST-0142,Coffee 200g,Beverages,1,2667.79,2667.79,Mobile Money,Surulere,David Okoro
+PM-0426,2025-11-04,CUST-0156,Orange Juice,Beverages,2,1196.98,2393.96,Bank Transfer,Surulere,Samuel Ade
+PM-0427,2025-05-31,CUST-0116,Soft Drink,Beverages,7,556.36,3894.52,Card,Yaba,Samuel Ade
+PM-0428,2025-11-16,CUST-0075,Toilet Tissue Pack,Household,4,1728.32,6913.28,Bank Transfer,Yaba,David Okoro
+PM-0429,2025-10-26,CUST-0147,Laundry Detergent,Household,6,3303.86,19823.16,Mobile Money,Lekki,Samuel Ade
+PM-0430,2025-01-28,CUST-0172,Rice 5kg,Groceries,1,8467.48,8467.48,Cash,Yaba,Grace Bello
+PM-0431,2025-02-01,CUST-0177,Soft Drink,Beverages,5,474.64,2373.2,Bank Transfer,Yaba,Amina Yusuf
+PM-0432,2025-12-12,CUST-0144,Floor Cleaner,Household,2,2190.77,4381.54,Card,Surulere,David Okoro
+PM-0433,2025-12-17,CUST-0081,Laundry Detergent,Household,7,3192.03,22344.21,Cash,Ikeja,Grace Bello
+PM-0434,2025-12-27,CUST-0166,Coffee 200g,Beverages,4,2865.97,11463.88,Bank Transfer,Yaba,David Okoro
+PM-0435,2025-02-08,CUST-0048,Floor Cleaner,Household,3,2345.05,7035.15,Card,Ikeja,Samuel Ade
+PM-0436,2025-03-08,CUST-0042,Sugar 1kg,Groceries,5,1959.51,9797.55,Bank Transfer,Ikeja,Grace Bello
+PM-0437,2025-06-15,CUST-0153,Toothpaste,Personal Care,1,1045.81,1045.81,Cash,Lekki,Samuel Ade
+PM-0438,2025-04-05,CUST-0134,Laundry Detergent,Household,6,3280.25,19681.5,Cash,Yaba,Samuel Ade
+PM-0439,2025-04-20,CUST-0170,Bathing Soap Pack,Personal Care,6,1349.94,8099.64,Bank Transfer,Lekki,Grace Bello
+PM-0440,2025-11-29,CUST-0003,Dish Soap,Household,8,1063.36,8506.88,Cash,Lekki,Samuel Ade
+PM-0441,2025-06-14,CUST-0098,Orange Juice,Beverages,1,1267.81,1267.81,Cash,Surulere,Grace Bello
+PM-0442,2025-09-18,CUST-0115,Laundry Detergent,Household,6,3273.16,19638.96,Mobile Money,Ikeja,Grace Bello
+PM-0443,2025-03-27,CUST-0138,Soft Drink,Beverages,2,554.82,1109.64,Cash,Ikeja,David Okoro
+PM-0444,2025-12-26,CUST-0112,Coffee 200g,Beverages,2,2498.9,4997.8,Cash,Yaba,Amina Yusuf
+PM-0445,2025-01-28,CUST-0046,Body Lotion,Personal Care,1,2718.76,2718.76,Bank Transfer,Ikeja,David Okoro
+PM-0446,2025-07-27,CUST-0111,Floor Cleaner,Household,7,2121.47,14850.29,Bank Transfer,Ikeja,Samuel Ade
+PM-0447,2025-10-27,CUST-0012,Rice 5kg,Groceries,2,9105.13,18210.26,Cash,Lekki,Amina Yusuf
+PM-0448,2025-08-13,CUST-0098,Toilet Tissue Pack,Household,2,1757.35,3514.7,Mobile Money,Ikeja,Samuel Ade
+PM-0449,2025-10-07,CUST-0076,Orange Juice,Beverages,3,1283.22,3849.66,Card,Lekki,Grace Bello
+PM-0450,2025-10-21,CUST-0153,Beans 2kg,Groceries,2,3899.09,7798.18,Mobile Money,Ikeja,Grace Bello
+PM-0451,2025-11-27,CUST-0132,Soft Drink,Beverages,4,501.27,2005.08,Card,Yaba,David Okoro
+PM-0452,2025-12-10,CUST-0146,Soft Drink,Beverages,4,471.46,1885.84,Cash,Surulere,Amina Yusuf
+PM-0453,2025-10-25,CUST-0125,Laundry Detergent,Household,5,3006.85,15034.25,Bank Transfer,Lekki,David Okoro
+PM-0454,2025-04-10,CUST-0082,Bottled Water,Beverages,5,365.37,1826.85,Mobile Money,Surulere,Grace Bello
+PM-0455,2025-08-08,CUST-0044,Dish Soap,Household,6,1027.46,6164.76,Cash,Lekki,David Okoro
+PM-0456,2025-03-10,CUST-0174,Coffee 200g,Beverages,5,2828.86,14144.3,Bank Transfer,Surulere,Samuel Ade
+PM-0457,2025-02-25,CUST-0045,Body Lotion,Personal Care,5,2950.44,14752.2,Cash,Lekki,David Okoro
+PM-0458,2025-01-10,CUST-0130,Soft Drink,Beverages,2,532.74,1065.48,Cash,Surulere,David Okoro
+PM-0459,2025-03-18,CUST-0094,Cooking Oil 1L,Groceries,8,3992.97,31943.76,Mobile Money,Yaba,Grace Bello
+PM-0460,2025-09-15,CUST-0003,Coffee 200g,Beverages,2,2598.33,5196.66,Card,Yaba,David Okoro
+PM-0461,2025-10-17,CUST-0169,Toothpaste,Personal Care,3,1136.6,3409.8,Card,Surulere,Grace Bello
+PM-0462,2025-05-16,CUST-0095,Beans 2kg,Groceries,8,4058.67,32469.36,Card,Ikeja,David Okoro
+PM-0463,2025-01-24,CUST-0011,Floor Cleaner,Household,8,2317.52,18540.16,Bank Transfer,Ikeja,Grace Bello
+PM-0464,2025-07-07,CUST-0151,Dish Soap,Household,7,998.2,6987.4,Cash,Lekki,Samuel Ade
+PM-0465,2025-06-26,CUST-0125,Coffee 200g,Beverages,6,2816.96,16901.76,Mobile Money,Ikeja,David Okoro
+PM-0466,2025-11-26,CUST-0072,Toothpaste,Personal Care,4,1028.96,4115.84,Card,Yaba,David Okoro
+PM-0467,2025-08-01,CUST-0085,Soft Drink,Beverages,2,526.11,1052.22,Cash,Surulere,Samuel Ade
+PM-0468,2025-07-30,CUST-0006,Toothpaste,Personal Care,3,1154.4,3463.2,Card,Ikeja,David Okoro
+PM-0469,2025-03-17,CUST-0015,Orange Juice,Beverages,1,1317.79,1317.79,Card,Lekki,David Okoro
+PM-0470,2025-04-21,CUST-0115,Bathing Soap Pack,Personal Care,5,1553.23,7766.15,Mobile Money,Surulere,David Okoro
+PM-0471,2025-04-04,CUST-0160,Coffee 200g,Beverages,3,2805.2,8415.6,Bank Transfer,Yaba,Grace Bello
+PM-0472,2025-03-09,CUST-0028,Bathing Soap Pack,Personal Care,4,1393.9,5575.6,Cash,Yaba,Samuel Ade
+PM-0473,2025-11-11,CUST-0154,Bottled Water,Beverages,3,355.31,1065.93,Cash,Ikeja,Amina Yusuf
+PM-0474,2025-12-14,CUST-0167,Toothpaste,Personal Care,1,1209.33,1209.33,Mobile Money,Surulere,Grace Bello
+PM-0475,2025-09-04,CUST-0098,Sugar 1kg,Groceries,4,2104.6,8418.4,Bank Transfer,Ikeja,Samuel Ade
+PM-0476,2025-02-12,CUST-0073,Soft Drink,Beverages,8,536.59,4292.72,Mobile Money,Lekki,David Okoro
+PM-0477,2025-07-12,CUST-0168,Rice 5kg,Groceries,2,8703.6,17407.2,Card,Lekki,Samuel Ade
+PM-0478,2025-10-27,CUST-0065,Laundry Detergent,Household,3,3216.69,9650.07,Bank Transfer,Surulere,Grace Bello
+PM-0479,2025-10-13,CUST-0124,Floor Cleaner,Household,4,2105.56,8422.24,Card,Lekki,Samuel Ade
+PM-0480,2025-07-23,CUST-0036,Toilet Tissue Pack,Household,6,1934.71,11608.26,Cash,Yaba,Samuel Ade
+PM-0481,2025-06-23,CUST-0141,Bottled Water,Beverages,4,357.58,1430.32,Cash,Yaba,Samuel Ade
+PM-0482,2025-11-04,CUST-0112,Rice 5kg,Groceries,3,8621.84,25865.52,Cash,Ikeja,Grace Bello
+PM-0483,2025-07-16,CUST-0103,Soft Drink,Beverages,2,520.9,1041.8,Bank Transfer,Ikeja,David Okoro
+PM-0484,2025-12-03,CUST-0133,Shampoo,Personal Care,1,2304.82,2304.82,Bank Transfer,Yaba,Amina Yusuf
+PM-0485,2025-12-02,CUST-0001,Orange Juice,Beverages,1,1190.34,1190.34,Card,Ikeja,Grace Bello
+PM-0486,2025-04-13,CUST-0133,Body Lotion,Personal Care,7,2903.16,20322.12,Cash,Ikeja,Amina Yusuf
+PM-0487,2025-05-22,CUST-0058,Toilet Tissue Pack,Household,6,2002.78,12016.68,Card,Surulere,Samuel Ade
+PM-0488,2025-02-24,CUST-0144,Cooking Oil 1L,Groceries,3,3805.42,11416.26,Cash,Lekki,Grace Bello
+PM-0489,2025-07-13,CUST-0145,Cooking Oil 1L,Groceries,5,4023.59,20117.95,Mobile Money,Yaba,Grace Bello
+PM-0490,2025-05-13,CUST-0018,Shampoo,Personal Care,1,2439.35,2439.35,Mobile Money,Yaba,David Okoro
+PM-0491,2025-01-05,CUST-0180,Floor Cleaner,Household,6,2148.93,12893.58,Bank Transfer,Yaba,Grace Bello
+PM-0492,2025-04-02,CUST-0122,Sugar 1kg,Groceries,6,1776.89,10661.34,Bank Transfer,Lekki,David Okoro
+PM-0493,2025-04-13,CUST-0061,Dish Soap,Household,4,968.81,3875.24,Card,Lekki,David Okoro
+PM-0494,2025-07-02,CUST-0040,Orange Juice,Beverages,4,1304.72,5218.88,Cash,Ikeja,Amina Yusuf
+PM-0495,2025-07-10,CUST-0159,Bathing Soap Pack,Personal Care,1,1525.44,1525.44,Bank Transfer,Surulere,Grace Bello
+PM-0496,2025-10-23,CUST-0033,Toothpaste,Personal Care,5,1099.53,5497.65,Cash,Surulere,Samuel Ade
+PM-0497,2025-03-31,CUST-0118,Cooking Oil 1L,Groceries,7,4149.9,29049.3,Cash,Surulere,Grace Bello
+PM-0498,2025-02-21,CUST-0084,Rice 5kg,Groceries,4,8465.03,33860.12,Bank Transfer,Lekki,David Okoro
+PM-0499,2025-11-10,CUST-0088,Dish Soap,Household,5,963.56,4817.8,Bank Transfer,Yaba,Samuel Ade
+PM-0500,2025-07-10,CUST-0094,Toothpaste,Personal Care,7,1166.16,8163.12,Mobile Money,Lekki,Samuel Ade
